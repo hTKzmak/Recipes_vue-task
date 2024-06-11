@@ -6,6 +6,8 @@ const { data } = defineProps({
 })
 </script>
 
+<!-- из пропа data выводим данные определённого рецепта -->
+
 <template>
     <div class="recipeList">
         <div v-for="info in data">

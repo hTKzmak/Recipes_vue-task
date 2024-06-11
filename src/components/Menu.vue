@@ -11,6 +11,7 @@ const { totalPages, goToPage, currentPage, nextPage, previousPage, itemsPerPage,
     menuListarr: Number
 })
 
+// просто знаки
 let left_sign = '<';
 let right_sign = '>';
 
